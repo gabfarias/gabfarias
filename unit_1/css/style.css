@@ -5,3 +5,6 @@ h1, p {
 	color: #fffafa;
 	text-align: center;
 }
+h1 {
+	text-decoration: bold;
+}
