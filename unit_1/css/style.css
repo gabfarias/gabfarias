@@ -1,3 +1,6 @@
+header {
+	vertical-align: center;
+}
 body {
 	background-color: #C2ABC2;
 }
@@ -6,5 +9,8 @@ h1, p {
 	text-align: center;
 }
 h1 {
-	text-decoration: bold;
+	text-decoration: bold, italic;
+}
+.img-circle {
+	border-radius: 50%;
 }
